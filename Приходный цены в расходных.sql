@@ -13,7 +13,7 @@
     curr_sum NUMBER;
     curr_prc NUMBER;
     num      NUMBER;
-    i        BINARY_INTEGER := 0;
+    i        BINARY_INTEGER := 0; 
     j        BINARY_INTEGER := 0;
     old_goods_id BINARY_INTEGER := 0;
     ch_price VARCHAR2(1);
